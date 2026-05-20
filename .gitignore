@@ -1,0 +1,11 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+game_events.jsonl
+dist/
+wheels/
+*.egg-info
+tate.jsonl
+# Virtual environments
+.venv
